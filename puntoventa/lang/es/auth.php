@@ -12,7 +12,7 @@ return [
     | these language lines according to your application's requirements.
     |
     */
-
+    // !Este es solo un comentario de prueba  
     'failed' => 'Estas credenciales no coinciden con nuestros registros.',
     'password' => 'La contraseña proporcionada es incorrecta.',
     'throttle' => 'Demasiados intentos de acceso. Por favor inténtelo de nuevo en :seconds segundos.',
